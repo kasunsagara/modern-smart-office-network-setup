@@ -1,4 +1,4 @@
-<h1>Modern Smart Office Network Setup (Cisco Packet Tracer)</h1>
+<h1>Modern Smart Office Network Setup</h1>
 <h3>A secure, scalable, and high-performance office network design</h3>
 <br>
 
@@ -32,23 +32,14 @@ enterprise office environment and demonstrates best practices in modern network 
 <h1>Features</h1>
 
 <p>
-• VLAN segmentation for Admin, HR, IT, Finance, and Guest networks<br>
-• Inter-VLAN routing via Layer 3 switch or router-on-a-stick<br>
-• Secure wireless networks with dual SSIDs (Staff & Guest)<br>
-• WPA2/WPA3 encryption for wireless security<br>
-• Integrated VoIP system with IP phones and extensions<br>
-• QoS for voice traffic prioritization<br>
-• Dynamic routing using EIGRP or OSPF<br>
-• STP configuration to prevent switching loops<br>
-• EtherChannel for link redundancy and increased bandwidth<br>
-• ACLs for traffic filtering and network protection<br>
-• Port security to block unauthorized devices<br>
-• DHCP snooping, DAI, and IP Source Guard for LAN security<br>
-• DHCP and DNS servers for centralized IP management<br>
-• File, web, and email servers in a dedicated server room<br>
-• AAA/RADIUS support for user authentication<br>
-• Syslog and SNMP for network monitoring<br>
-• Real-time troubleshooting using Cisco tools<br>
+• Multi-VLAN segmentation for departments<br>
+• Secure inter-VLAN routing<br>
+• NAT/PAT for internet access<br>
+• Trunk links between router and switches<br>
+• Centralized servers for file & web services<br>
+• Guest Wi-Fi on isolated VLAN<br>
+• Shared network printer in VLAN 20<br>
+• End-to-end connectivity with cloud-simulated internet<br>
 </p>
 <br>
 
